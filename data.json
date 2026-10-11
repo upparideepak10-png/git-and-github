@@ -1,7 +1,4 @@
-
 {
-
-    "message": "Hello World"
-
+    "message": "Hello from new branch!",
+    "status": "success"
 }
-
