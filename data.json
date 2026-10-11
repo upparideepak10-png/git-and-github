@@ -1,3 +1,4 @@
 {
-    "message": "Hello from main!"
+    "message": "Hello from new branch!",
+    "status": "success"
 }
